@@ -5,7 +5,7 @@ A c PE parser
 
 # I wrote this code To  learn More about PE file format since its crutial for malware dev 
 
-- what this code does is very simple and it was very easy to write it just reads the different structures of the PE format of a gives exe file 
+- what this code does is very simple and it was very easy to write it just reads the different structures of the PE format of a given exe file 
 
 - The code is so messy and Not complete Yet but i wanted to share this before moving to the complicated stuff
 
