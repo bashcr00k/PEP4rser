@@ -1,7 +1,7 @@
 # PEP4rser
 A c PE parser 
 
-
+# IMPORTANT : It only works on 32bit exes i might make it work for 64bit later 
 
 # Why i wrote this 
 This is a small project to learn more about pe file format since its so important for malware dev.
