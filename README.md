@@ -19,10 +19,11 @@ This is a small project to learn more about pe file format since its so importan
   The Magic number is a signature that we can use to check if its a valid pe file it should always be equal to 0x5A4D . The nt header offset is pretty much self explanatory it tells us where the nt header is located so we need these two informations in order to procees .
 # Part 2 : Nt Header
 - This is the most important part it contains informations such as compilation date,number of sections,import directory offset and much more
+  
 - the nt header it self consists of 3 parts.
+  
 -- A signature PE\0\0
--- Image File Header :
-    it has informations such as the cpu type and the number of sections
+-- Image File Header : it has informations such as the cpu type and the number of sections
 -- Optional Header
   size of .text section,entry point rva, gui or console ...
 # Part 3 : Section Header
