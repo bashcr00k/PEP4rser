@@ -61,3 +61,10 @@ File Offsets : self explanatory this is what we actually use with fseek in order
 
  ### Happy Hacking
  After this i will start working on a reflective dll injector so stay tuned.
+ # resources to learn more 
+ https://www.ired.team/miscellaneous-reversing-forensics/windows-kernel-internals/pe-file-header-parser-in-c++
+
+ https://0xrick.github.io/win-internals/pe8/#printimporttableinfo
+
+
+ 
